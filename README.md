@@ -1,17 +1,13 @@
-🪄 Nike Store UI Clone
+🛍 Nike Store UI Clone
 A learning project — building a Nike online store layout using HTML + CSS.
 It includes three pages: a homepage, a product catalog, and a login/registration form.
 All styles are stored in a single file .
-
-
 📁 Project Structure
 • 	 — homepage (banner, Air Max section, gallery, footer)
 • 	 — product catalog (cards with prices and descriptions)
 • 	 — login/registration form
 • 	 — global styles
 • 	 — logos, product images, icons
-
-
 🧩 Main Sections
 Homepage ()
 • 	Header with navigation and search
@@ -35,7 +31,7 @@ Registration ()
 • 	Submit button
 • 	Text with Nike’s Privacy Policy and Terms of Use
 • 	Footer with navigation and social media
-🍭 Styles ()
+🔍 Styles ()
 • 	Fonts: Merriweather, Oswald, Titan One (Google Fonts)
 • 	Variables: , 
 • 	Layout & Containers:
@@ -48,7 +44,7 @@ Registration ()
 • 	Core Sections:
 • 	 — banner image
 • 	 — central block with title and buttons
-• 	 and  — product cards and gallery
+• 	,  — product cards and gallery
 • 	Registration Form:
 • 	 — centered form
 • 	 — form container
