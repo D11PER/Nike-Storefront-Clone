@@ -59,4 +59,6 @@ All styles are stored in a single file `one.css`.
   - `.part` — checkbox + link
 - **Responsive Design**:
   - Media query for screens ≥768px (larger titles, grid adjustments)
+ 
+  -  https://d11per.github.io/Nike-Storefront-Clone/
 
