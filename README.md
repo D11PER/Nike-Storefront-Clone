@@ -2,12 +2,16 @@
 A learning project — building a Nike online store layout using HTML + CSS.
 It includes three pages: a homepage, a product catalog, and a login/registration form.
 All styles are stored in a single file .
+
+
 📁 Project Structure
 • 	 — homepage (banner, Air Max section, gallery, footer)
 • 	 — product catalog (cards with prices and descriptions)
 • 	 — login/registration form
 • 	 — global styles
 • 	 — logos, product images, icons
+
+
 🧩 Main Sections
 Homepage ()
 • 	Header with navigation and search
